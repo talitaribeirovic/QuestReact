@@ -1,3 +1,15 @@
+# Quest React - Básico 
+Projeto desenvolvido pela mentória do Dev em Dobro. 
+
+
+# 🔧 Desafios Concluídos:
+1️⃣ Desafio 1  : Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS.
+
+
+2️⃣ Desafio 2 : Mostrar mensagem com a label do botão
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

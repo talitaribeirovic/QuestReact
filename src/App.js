@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./components/paragraph/paragraph";
+import Paragraph from "./components/paragraph/paragraph";
+import Button from "./components/button/button";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Paragraph text=" Desafio 01 : Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS" />
+
+      <Button label='Baixar CV'>
+
+      </Button>
+    </>
   );
 }
 
